@@ -1,0 +1,23 @@
+body div {
+  display:inline-block;
+}
+#controlls {
+}
+.but {
+  width:30px;
+  height:30px;
+  border:1px solid black;
+}
+#wrapper {
+  background-color: #fff;
+  width:300px;
+}
+table {
+
+}
+td {
+  width:26px;
+  height:25px;
+  border:0.5px solid #bbb;
+  border-radius:2px; 
+}
